@@ -1,0 +1,15 @@
+h2 {
+    color: brown ;
+}
+
+h3{
+    color: aqua;
+}
+
+/* 6 - Classes */
+.paragrafos {
+    background-color: aquamarine;
+}
+.cor-textos {
+    color: firebrick;
+}
